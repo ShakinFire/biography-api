@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biography-api", "biography-api.csproj", "{DBACD66A-A723-4FD6-8351-C98E311C1A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBACD66A-A723-4FD6-8351-C98E311C1A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBACD66A-A723-4FD6-8351-C98E311C1A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBACD66A-A723-4FD6-8351-C98E311C1A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBACD66A-A723-4FD6-8351-C98E311C1A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
