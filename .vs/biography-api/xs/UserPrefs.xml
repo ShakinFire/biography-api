@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{DBACD66A-A723-4FD6-8351-C98E311C1A53}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
-    <Files>
-      <File FileName="appsettings.json" Line="11" Column="90" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
